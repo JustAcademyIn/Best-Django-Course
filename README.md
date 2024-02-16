@@ -28,7 +28,7 @@ Learning Django opens doors to lucrative career opportunities in web development
 
 When choosing a Django course, consider factors such as course content, instructor expertise, hands-on projects, student reviews, and certifications offered. It's essential to select a course that aligns with your learning goals and provides practical skills applicable to real-world scenarios.
 
-#### Get Details About The Course Only On [[JustAcademy.](https://www.justacademy.co/)
+#### Get Details About The Course Only On [JustAcademy.](https://www.justacademy.co/)
 #### To Join our FREE DEMO Session [Click Here](https://www.justacademy.co/register-for-course-demo)
 #### This information is sourced from JustAcademy
 #### Contact Info:
